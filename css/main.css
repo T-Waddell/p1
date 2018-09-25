@@ -1,0 +1,13 @@
+#wrapper {
+    width: 60%;
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+h1 {
+    font-family: 'Amatic SC', cursive;
+    font-size: 3.5rem;
+}
+img {
+    height: 350px;
+}
