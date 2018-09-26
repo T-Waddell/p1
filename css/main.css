@@ -1,3 +1,6 @@
+body {
+	color: #383838;
+}
 #wrapper {
     width: 60%;
     margin: 0 auto;
@@ -5,9 +8,14 @@
     font-family: 'Open Sans', sans-serif;
 }
 h1 {
-    font-family: 'Amatic SC', cursive;
+	font-family: 'Amatic SC', cursive;
     font-size: 3.5rem;
+	color: #1cbcd8;
 }
 img {
     height: 350px;
+}
+blockquote {
+	border-top: 3px solid #1cbcd8;
+	margin: 2rem 0;
 }
