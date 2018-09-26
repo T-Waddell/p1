@@ -4,6 +4,6 @@
 
 ## Outside resources
 Google fonts:
-* [Amatic](https://fonts.google.com/specimen/Amatic+SC)
+* [Amatic SC](https://fonts.google.com/specimen/Amatic+SC)
 * [Open Sans](https://fonts.google.com/specimen/Open+Sans)
 
